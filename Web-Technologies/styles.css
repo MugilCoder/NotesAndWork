@@ -1,0 +1,11 @@
+#password:hover{
+    background-color: greenyellow;
+}
+#password{
+    background-color: aqua;
+}
+#emailid:hover{
+    background-color: rgb(79, 209, 112);
+    align-items: center;
+}
+
